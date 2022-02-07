@@ -1,0 +1,17 @@
+﻿  main.cpp
+F:\OpenCV\opencv-3.2.0\opencv-3.2.0\modules\core\include\opencv2/core/mat.hpp(1925): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\OpenCV\opencv-3.2.0\opencv-3.2.0\modules\core\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\OpenCV\opencv-3.2.0\opencv-3.2.0\modules\core\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\OpenCV\opencv-3.2.0\opencv-3.2.0\modules\core\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\OpenCV\opencv-3.2.0\opencv-3.2.0\modules\imgproc\include\opencv2/imgproc.hpp(616): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\GitHub\Medical-Image-Processing\TotalVariation\main.cpp(43): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+F:\GitHub\Medical-Image-Processing\TotalVariation\main.cpp(44): warning C4305: “初始化”: 从“double”到“float”截断
+F:\GitHub\Medical-Image-Processing\TotalVariation\main.cpp(71): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\GitHub\Medical-Image-Processing\TotalVariation\main.cpp(72): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\GitHub\Medical-Image-Processing\TotalVariation\main.cpp(73): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\GitHub\Medical-Image-Processing\TotalVariation\main.cpp(74): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\GitHub\Medical-Image-Processing\TotalVariation\main.cpp(76): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\GitHub\Medical-Image-Processing\TotalVariation\main.cpp(77): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\GitHub\Medical-Image-Processing\TotalVariation\main.cpp(78): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\GitHub\Medical-Image-Processing\TotalVariation\main.cpp(79): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  TotalVariation.vcxproj -> \bin\Debug\TotalVariation.exe

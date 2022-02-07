@@ -1,0 +1,9 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 2.8)
+PROJECT(HelloWorld)
+FIND_PACKAGE(ITK REQUIRED)
+INCLUDE(${ITK_USE_FILE})
+ADD_EXECUTABLE(HelloWorld main.cpp itkSimpleFuzzyConnectednessScalarImageFilter.h
+itkSimpleFuzzyConnectednessScalarImageFilter.txx
+itkSimpleFuzzyConnectednessImageFilterBase.h
+itkSimpleFuzzyConnectednessImageFilterBase.txx)
+TARGET_LINK_LIBRARIES(HelloWorld ${ITK_LIBRARIES})
