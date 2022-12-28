@@ -1,2 +1,2 @@
 # Image-Processing-Projects
-introduce the algorithms of medical image processing
+introduce the algorithms of  image processing
